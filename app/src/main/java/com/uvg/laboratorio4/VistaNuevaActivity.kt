@@ -43,7 +43,7 @@ fun VistaNuevaScreen() {
             style = androidx.compose.material3.MaterialTheme.typography.titleMedium
         )
         Row(modifier = Modifier.padding(top = 8.dp)) {
-            // ... (código de los integrantes)
+          
         }
         Spacer(modifier = Modifier.weight(1f))
 
